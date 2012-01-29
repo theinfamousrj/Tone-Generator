@@ -1,0 +1,2 @@
+Simple tone generator built to be used in conjunction with the spectrum analyzer.
+It does exactly what it says, generates tones given a series of data.
